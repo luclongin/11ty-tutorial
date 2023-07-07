@@ -1,10 +1,10 @@
 ---
 title: My Turtle Article
 author: Kevin Powell
-date: 2023-07-23
+date: 2023-07-07
+tags: ["post", "featured"]
 image: /assets/blog/article-2.jpg
 imageAlt: Turtle
-tags: ['posts', 'featured']
 description: Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis accusantium sit illo neque rem omnis quaerat, nam similique vitae delectus ad magni vel quo maxime, magnam placeat. Reprehenderit, distinctio aliquam?
 ---
 
